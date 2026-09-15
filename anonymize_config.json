@@ -1,0 +1,11 @@
+{
+  "remove_fields": [
+    "InstitutionAddress",
+    "Other Patient Names"
+  ],
+  "substitute_fields": {
+    "PatientName": "Patient A. Nonymous",
+    "PatientID": "12345678",
+    "InstitutionName": "The XXX Hospital"
+  }
+}
